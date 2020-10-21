@@ -1,0 +1,605 @@
+,City,Country
+0,pisco,pe
+1,ushuaia,ar
+2,salekhard,ru
+3,broken hill,au
+4,cape town,za
+5,san juan del sur,ni
+6,butaritari,ki
+7,albany,au
+8,waddan,ly
+9,rikitea,pf
+10,east london,za
+11,okato,nz
+12,hobart,au
+13,cidreira,br
+14,erenhot,cn
+15,avarua,ck
+16,bluff,nz
+17,nanortalik,gl
+18,kapaa,us
+19,busselton,au
+20,bambous virieux,mu
+21,saint-georges,gf
+22,punta arenas,cl
+23,lodeynoye pole,ru
+24,hamilton,bm
+25,san andres,co
+26,upernavik,gl
+27,fort nelson,ca
+28,zhuravky,ua
+29,barrow,us
+30,pevek,ru
+31,hermanus,za
+32,haines junction,ca
+33,iqaluit,ca
+34,flinders,au
+35,kabanjahe,id
+36,hithadhoo,mv
+37,oranjemund,na
+38,labuhan,id
+39,kazalinsk,kz
+40,illoqqortoormiut,gl
+41,hasaki,jp
+42,belmonte,br
+43,paradwip,in
+44,qaanaaq,gl
+45,tuktoyaktuk,ca
+46,bosaso,so
+47,cockburn town,bs
+48,nizhneyansk,ru
+49,faanui,pf
+50,lagos,ng
+51,puerto ayora,ec
+52,olga,ru
+53,kurumkan,ru
+54,ponta do sol,cv
+55,bredasdorp,za
+56,rio gallegos,ar
+57,port elizabeth,za
+58,port augusta,au
+59,sisophon,kh
+60,rio rancho,us
+61,catamarca,ar
+62,port hardy,ca
+63,mataura,pf
+64,praia da vitoria,pt
+65,cherskiy,ru
+66,cap malheureux,mu
+67,camana,pe
+68,khatanga,ru
+69,astakos,gr
+70,amderma,ru
+71,cabo san lucas,mx
+72,sohag,eg
+73,hilo,us
+74,kodiak,us
+75,soe,id
+76,zalantun,cn
+77,ruatoria,nz
+78,ascension,mx
+79,shenjiamen,cn
+80,pangnirtung,ca
+81,porbandar,in
+82,flin flon,ca
+83,laguna,br
+84,alyangula,au
+85,saint-augustin,ca
+86,tuatapere,nz
+87,nikolskoye,ru
+88,los llanos de aridane,es
+89,saryozek,kz
+90,coari,br
+91,aklavik,ca
+92,mahebourg,mu
+93,kemijarvi,fi
+94,san patricio,mx
+95,newport,us
+96,harper,lr
+97,thompson,ca
+98,lieksa,fi
+99,rosa zarate,ec
+100,longyearbyen,sj
+101,vaini,to
+102,atuona,pf
+103,tumannyy,ru
+104,isangel,vu
+105,porto novo,cv
+106,yellowknife,ca
+107,champerico,gt
+108,novyy nekouz,ru
+109,dukat,ru
+110,victoria,sc
+111,palabuhanratu,id
+112,oriximina,br
+113,silver city,us
+114,provideniya,ru
+115,grindavik,is
+116,jamestown,sh
+117,san cristobal,ec
+118,luancheng,cn
+119,halifax,ca
+120,georgetown,sh
+121,esperance,au
+122,la ronge,ca
+123,rapid valley,us
+124,taolanaro,mg
+125,mys shmidta,ru
+126,codrington,ag
+127,willmar,us
+128,bethel,us
+129,taoudenni,ml
+130,paamiut,gl
+131,toamasina,mg
+132,tilichiki,ru
+133,atarra,in
+134,souillac,mu
+135,dikson,ru
+136,athabasca,ca
+137,chengde,cn
+138,barentsburg,sj
+139,port alfred,za
+140,balkhash,kz
+141,luderitz,na
+142,tautira,pf
+143,ancud,cl
+144,damavand,ir
+145,carnarvon,au
+146,matara,lk
+147,chokurdakh,ru
+148,ciudad bolivar,ve
+149,geraldton,au
+150,san ramon,bo
+151,arraial do cabo,br
+152,tasiilaq,gl
+153,malakal,sd
+154,sitka,us
+155,tshikapa,cd
+156,sibu,my
+157,mount isa,au
+158,samusu,ws
+159,loknya,ru
+160,lavrentiya,ru
+161,belyy yar,ru
+162,itapora,br
+163,trincomalee,lk
+164,road town,vg
+165,daytona beach,us
+166,saldanha,za
+167,adrar,dz
+168,along,in
+169,chapada dos guimaraes,br
+170,soderhamn,se
+171,muravlenko,ru
+172,batticaloa,lk
+173,kutum,sd
+174,mazamari,pe
+175,kalmunai,lk
+176,saskylakh,ru
+177,tual,id
+178,yulara,au
+179,astaneh-ye ashrafiyeh,ir
+180,cedar city,us
+181,ciras,af
+182,moroni,km
+183,taltal,cl
+184,mogadishu,so
+185,chanal,mx
+186,kadoma,zw
+187,loon,ph
+188,denia,es
+189,leningradskiy,ru
+190,ponta delgada,pt
+191,new norfolk,au
+192,castro,cl
+193,amuntai,id
+194,omsukchan,ru
+195,havre-saint-pierre,ca
+196,rock springs,us
+197,alofi,nu
+198,port-gentil,ga
+199,goderich,sl
+200,bilma,ne
+201,ambagarh chauki,in
+202,lasa,cn
+203,ginda,er
+204,namtsy,ru
+205,lazaro cardenas,mx
+206,beyneu,kz
+207,trinidad,bo
+208,hovd,mn
+209,severnyy,ru
+210,aleksandrov gay,ru
+211,airai,pw
+212,marfino,ru
+213,temaraia,ki
+214,linden,gy
+215,skjervoy,no
+216,coihaique,cl
+217,binzhou,cn
+218,arlit,ne
+219,beberibe,br
+220,port blair,in
+221,seoul,kr
+222,phalombe,mw
+223,banjar,id
+224,nizwa,om
+225,finale ligure,it
+226,aberdeen,us
+227,jamui,in
+228,shingu,jp
+229,monrovia,lr
+230,santa rita,py
+231,kosonsoy,uz
+232,aitape,pg
+233,igarapava,br
+234,mago,ru
+235,buchanan,lr
+236,hoganas,se
+237,itarema,br
+238,north bend,us
+239,hobbs,us
+240,saint-philippe,re
+241,port washington,us
+242,turukhansk,ru
+243,attawapiskat,ca
+244,sonoita,mx
+245,ghanzi,bw
+246,coruripe,br
+247,jabiru,au
+248,hambantota,lk
+249,jalu,ly
+250,maxixe,mz
+251,tabiauea,ki
+252,bathsheba,bb
+253,caravelas,br
+254,srandakan,id
+255,klaksvik,fo
+256,kaiyuan,cn
+257,naryan-mar,ru
+258,bognor regis,gb
+259,nalut,ly
+260,port macquarie,au
+261,lolua,tv
+262,lebu,cl
+263,pedernales,do
+264,djambala,cg
+265,chhoti sadri,in
+266,xichang,cn
+267,kholtoson,ru
+268,mar del plata,ar
+269,padang,id
+270,bowen,au
+271,juneau,us
+272,oussouye,sn
+273,tomatlan,mx
+274,gurgan,az
+275,shar,kz
+276,rio grande,br
+277,kaitangata,nz
+278,isla mujeres,mx
+279,sungaipenuh,id
+280,riyadh,sa
+281,tsihombe,mg
+282,pondicherry,in
+283,ust-barguzin,ru
+284,manado,id
+285,mpanda,tz
+286,dibulla,co
+287,cairns,au
+288,katsuura,jp
+289,uruguaiana,br
+290,dingle,ie
+291,valky,ua
+292,emporia,us
+293,axim,gh
+294,tumut,au
+295,bara,sd
+296,sobolevo,ru
+297,kosai,jp
+298,xining,cn
+299,aksehir,tr
+300,kutulik,ru
+301,grand river south east,mu
+302,xiongzhou,cn
+303,marcona,pe
+304,natal,br
+305,ahipara,nz
+306,tubuala,pa
+307,rorvik,no
+308,xiangdong,cn
+309,verkhniye sergi,ru
+310,mubi,ng
+311,nerchinskiy zavod,ru
+312,nicoya,cr
+313,forest grove,us
+314,talnakh,ru
+315,egvekinot,ru
+316,bonthe,sl
+317,lopez mateos,mx
+318,kifri,iq
+319,auki,sb
+320,kampene,cd
+321,sindor,ru
+322,torbay,ca
+323,anadyr,ru
+324,conde,br
+325,gat,ly
+326,aasiaat,gl
+327,chuy,uy
+328,troitskiy,ru
+329,kuchera,in
+330,muli,mv
+331,cheuskiny,ru
+332,concepcion del oro,mx
+333,bud,no
+334,saint george,bm
+335,changji,cn
+336,wagar,sd
+337,visby,se
+338,morondava,mg
+339,potgietersrus,za
+340,ikalamavony,mg
+341,oksfjord,no
+342,eureka,us
+343,areosa,pt
+344,gimli,ca
+345,yefremov,ru
+346,basco,ph
+347,casper,us
+348,arman,ru
+349,belushya guba,ru
+350,erzin,ru
+351,pau dos ferros,br
+352,marabba,sd
+353,camacha,pt
+354,sao joao da barra,br
+355,narsaq,gl
+356,sola,vu
+357,satitoa,ws
+358,vieques,us
+359,norman wells,ca
+360,talara,pe
+361,manono,cd
+362,santa maria,cv
+363,krasnoselkup,ru
+364,ribeira grande,pt
+365,sterling,us
+366,warqla,dz
+367,kiama,au
+368,galiwinku,au
+369,wazzan,ma
+370,george,za
+371,lucea,jm
+372,bago,mm
+373,yenagoa,ng
+374,ola,ru
+375,linxia,cn
+376,severo-kurilsk,ru
+377,thibodaux,us
+378,richards bay,za
+379,sentyabrskiy,ru
+380,lagoa,pt
+381,shu,kz
+382,strezhevoy,ru
+383,kavieng,pg
+384,barranca,pe
+385,sur,om
+386,cholan,tw
+387,quixada,br
+388,fernandina beach,us
+389,havoysund,no
+390,xiaoweizhai,cn
+391,xunchang,cn
+392,karaul,ru
+393,vanavara,ru
+394,rudbar,ir
+395,muscat,om
+396,rocha,uy
+397,nishihara,jp
+398,darhan,mn
+399,tokur,ru
+400,conceicao do araguaia,br
+401,kulhudhuffushi,mv
+402,naze,jp
+403,lahij,ye
+404,ilulissat,gl
+405,forssa,fi
+406,nizhnevartovsk,ru
+407,temerloh,my
+408,mananara,mg
+409,kholmogory,ru
+410,portales,us
+411,vaitupu,wf
+412,fortuna,us
+413,blackwater,au
+414,tulun,ru
+415,newton,us
+416,bembibre,es
+417,mulege,mx
+418,tingi,tz
+419,welkom,za
+420,san miguel,bo
+421,baruun-urt,mn
+422,ofaqim,il
+423,pemangkat,id
+424,nizhneangarsk,ru
+425,derzhavinsk,kz
+426,elizabeth city,us
+427,olafsvik,is
+428,sorvag,fo
+429,ajdabiya,ly
+430,lorengau,pg
+431,garowe,so
+432,zhob,pk
+433,cowansville,ca
+434,acapulco,mx
+435,luang prabang,la
+436,gorontalo,id
+437,ust-ishim,ru
+438,thunder bay,ca
+439,sakakah,sa
+440,tagusao,ph
+441,karatuzskoye,ru
+442,riohacha,co
+443,touros,br
+444,umm lajj,sa
+445,bolshegrivskoye,ru
+446,hilton head island,us
+447,sibolga,id
+448,santiago del estero,ar
+449,barcelona,ve
+450,coahuayana,mx
+451,tibacuy,co
+452,chino valley,us
+453,pozo colorado,py
+454,guerrero negro,mx
+455,vostok,ru
+456,andenes,no
+457,yako,bf
+458,fare,pf
+459,cayenne,gf
+460,bregenz,at
+461,nhulunbuy,au
+462,tamale,gh
+463,kyren,ru
+464,zeya,ru
+465,paita,pe
+466,bonavista,ca
+467,yurty,ru
+468,bandar-e anzali,ir
+469,marsaxlokk,mt
+470,liwale,tz
+471,moron,ve
+472,namatanai,pg
+473,dolbeau,ca
+474,geghamasar,am
+475,puyo,ec
+476,voh,nc
+477,manta,ec
+478,el cobre,cu
+479,sangar,ru
+480,tabas,ir
+481,mount pleasant,us
+482,saint-pierre,pm
+483,bolungarvik,is
+484,sao filipe,cv
+485,fjerritslev,dk
+486,nantucket,us
+487,kipini,ke
+488,havelock,us
+489,hobyo,so
+490,honningsvag,no
+491,itoman,jp
+492,tammisaari,fi
+493,darnah,ly
+494,ijaki,ki
+495,acarau,br
+496,nguiu,au
+497,tecoanapa,mx
+498,hamada,jp
+499,progreso,mx
+500,altay,cn
+501,nanakuli,us
+502,guadalupe y calvo,mx
+503,boden,se
+504,kralendijk,an
+505,kresttsy,ru
+506,burnie,au
+507,honiara,sb
+508,puerto madryn,ar
+509,san policarpo,ph
+510,margate,za
+511,juifang,tw
+512,tiksi,ru
+513,doha,qa
+514,mason,us
+515,marsa matruh,eg
+516,bone,id
+517,cienfuegos,cu
+518,vestmannaeyjar,is
+519,konibodom,tj
+520,vao,nc
+521,usinsk,ru
+522,deputatskiy,ru
+523,lompoc,us
+524,boa vista,br
+525,morant bay,jm
+526,ovalle,cl
+527,pignon,ht
+528,forestville,ca
+529,zhigansk,ru
+530,hami,cn
+531,guicheng,cn
+532,samalaeulu,ws
+533,kugesi,ru
+534,urdzhar,kz
+535,bereda,so
+536,huron,us
+537,huarmey,pe
+538,kruisfontein,za
+539,vila velha,br
+540,roald,no
+541,celestun,mx
+542,jipijapa,ec
+543,lipari,it
+544,eyl,so
+545,omagh,gb
+546,stei,ro
+547,wahran,dz
+548,broome,au
+549,carndonagh,ie
+550,gravdal,no
+551,aksu,cn
+552,diapaga,bf
+553,cordoba,ar
+554,sorland,no
+555,nova friburgo,br
+556,bubaque,gw
+557,bandarbeyla,so
+558,ewo,cg
+559,eugene,us
+560,kavaratti,in
+561,hofn,is
+562,inhambane,mz
+563,nushki,pk
+564,houffalize,be
+565,melfi,td
+566,pestravka,ru
+567,churachandpur,in
+568,saint-francois,gp
+569,namibe,ao
+570,gisborne,nz
+571,necochea,ar
+572,barraute,ca
+573,luoyang,cn
+574,christchurch,nz
+575,mardin,tr
+576,soyo,ao
+577,grand gaube,mu
+578,trat,th
+579,general roca,ar
+580,kyra,ru
+581,ginir,et
+582,baker,us
+583,marystown,ca
+584,bangsund,no
+585,saravan,la
+586,berea,us
+587,platanos,gr
+588,half moon bay,us
+589,ahuimanu,us
+590,turkistan,kz
+591,nome,us
+592,karwar,in
+593,tabou,ci
+594,drovyanaya,ru
+595,la seyne-sur-mer,fr
+596,thinadhoo,mv
+597,rize,tr
+598,dorado,us
+599,yar-sale,ru
+600,evensk,ru
+601,palmer,us
+602,kyshtovka,ru
+603,byron bay,au
