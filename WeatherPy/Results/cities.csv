@@ -1,605 +1,632 @@
 ,City,Country
-0,pisco,pe
-1,ushuaia,ar
-2,salekhard,ru
-3,broken hill,au
-4,cape town,za
-5,san juan del sur,ni
-6,butaritari,ki
-7,albany,au
-8,waddan,ly
-9,rikitea,pf
-10,east london,za
-11,okato,nz
-12,hobart,au
-13,cidreira,br
-14,erenhot,cn
-15,avarua,ck
-16,bluff,nz
-17,nanortalik,gl
+0,bethel,us
+1,pingliang,cn
+2,muisne,ec
+3,caravelas,br
+4,spassk,ru
+5,rikitea,pf
+6,ushuaia,ar
+7,kaeo,nz
+8,mullaitivu,lk
+9,hermanus,za
+10,camana,pe
+11,upernavik,gl
+12,mar del plata,ar
+13,punta arenas,cl
+14,port alfred,za
+15,glubczyce,pl
+16,at-bashi,kg
+17,saint-philippe,re
 18,kapaa,us
-19,busselton,au
-20,bambous virieux,mu
-21,saint-georges,gf
-22,punta arenas,cl
-23,lodeynoye pole,ru
-24,hamilton,bm
-25,san andres,co
-26,upernavik,gl
-27,fort nelson,ca
-28,zhuravky,ua
-29,barrow,us
-30,pevek,ru
-31,hermanus,za
-32,haines junction,ca
-33,iqaluit,ca
-34,flinders,au
-35,kabanjahe,id
-36,hithadhoo,mv
-37,oranjemund,na
-38,labuhan,id
-39,kazalinsk,kz
-40,illoqqortoormiut,gl
+19,esna,eg
+20,rockhampton,au
+21,guerrero negro,mx
+22,geraldton,au
+23,narsaq,gl
+24,saskylakh,ru
+25,puerto ayora,ec
+26,atuona,pf
+27,frederiksvaerk,dk
+28,martapura,id
+29,santa lucia,ph
+30,udachnyy,ru
+31,durban,za
+32,mitu,co
+33,mnogovershinnyy,ru
+34,jaca,es
+35,miyako,jp
+36,sorland,no
+37,cherskiy,ru
+38,pisco,pe
+39,torbay,ca
+40,kaitangata,nz
 41,hasaki,jp
-42,belmonte,br
-43,paradwip,in
-44,qaanaaq,gl
-45,tuktoyaktuk,ca
-46,bosaso,so
-47,cockburn town,bs
-48,nizhneyansk,ru
-49,faanui,pf
-50,lagos,ng
-51,puerto ayora,ec
-52,olga,ru
-53,kurumkan,ru
-54,ponta do sol,cv
-55,bredasdorp,za
-56,rio gallegos,ar
-57,port elizabeth,za
-58,port augusta,au
-59,sisophon,kh
-60,rio rancho,us
-61,catamarca,ar
-62,port hardy,ca
-63,mataura,pf
-64,praia da vitoria,pt
-65,cherskiy,ru
-66,cap malheureux,mu
-67,camana,pe
-68,khatanga,ru
-69,astakos,gr
-70,amderma,ru
-71,cabo san lucas,mx
-72,sohag,eg
-73,hilo,us
-74,kodiak,us
-75,soe,id
-76,zalantun,cn
-77,ruatoria,nz
-78,ascension,mx
-79,shenjiamen,cn
-80,pangnirtung,ca
-81,porbandar,in
-82,flin flon,ca
-83,laguna,br
-84,alyangula,au
-85,saint-augustin,ca
-86,tuatapere,nz
-87,nikolskoye,ru
-88,los llanos de aridane,es
-89,saryozek,kz
-90,coari,br
-91,aklavik,ca
-92,mahebourg,mu
-93,kemijarvi,fi
-94,san patricio,mx
-95,newport,us
-96,harper,lr
-97,thompson,ca
-98,lieksa,fi
-99,rosa zarate,ec
-100,longyearbyen,sj
-101,vaini,to
-102,atuona,pf
-103,tumannyy,ru
-104,isangel,vu
-105,porto novo,cv
-106,yellowknife,ca
-107,champerico,gt
-108,novyy nekouz,ru
-109,dukat,ru
-110,victoria,sc
-111,palabuhanratu,id
-112,oriximina,br
-113,silver city,us
-114,provideniya,ru
-115,grindavik,is
-116,jamestown,sh
-117,san cristobal,ec
-118,luancheng,cn
-119,halifax,ca
-120,georgetown,sh
-121,esperance,au
-122,la ronge,ca
-123,rapid valley,us
-124,taolanaro,mg
-125,mys shmidta,ru
-126,codrington,ag
-127,willmar,us
-128,bethel,us
-129,taoudenni,ml
-130,paamiut,gl
-131,toamasina,mg
-132,tilichiki,ru
-133,atarra,in
-134,souillac,mu
-135,dikson,ru
-136,athabasca,ca
-137,chengde,cn
-138,barentsburg,sj
-139,port alfred,za
-140,balkhash,kz
-141,luderitz,na
-142,tautira,pf
-143,ancud,cl
-144,damavand,ir
-145,carnarvon,au
-146,matara,lk
-147,chokurdakh,ru
-148,ciudad bolivar,ve
-149,geraldton,au
-150,san ramon,bo
-151,arraial do cabo,br
-152,tasiilaq,gl
-153,malakal,sd
-154,sitka,us
-155,tshikapa,cd
-156,sibu,my
-157,mount isa,au
-158,samusu,ws
-159,loknya,ru
-160,lavrentiya,ru
-161,belyy yar,ru
-162,itapora,br
-163,trincomalee,lk
-164,road town,vg
-165,daytona beach,us
-166,saldanha,za
-167,adrar,dz
-168,along,in
-169,chapada dos guimaraes,br
-170,soderhamn,se
-171,muravlenko,ru
-172,batticaloa,lk
-173,kutum,sd
-174,mazamari,pe
-175,kalmunai,lk
-176,saskylakh,ru
-177,tual,id
-178,yulara,au
-179,astaneh-ye ashrafiyeh,ir
-180,cedar city,us
-181,ciras,af
-182,moroni,km
-183,taltal,cl
-184,mogadishu,so
-185,chanal,mx
-186,kadoma,zw
-187,loon,ph
-188,denia,es
-189,leningradskiy,ru
-190,ponta delgada,pt
-191,new norfolk,au
-192,castro,cl
-193,amuntai,id
-194,omsukchan,ru
-195,havre-saint-pierre,ca
-196,rock springs,us
-197,alofi,nu
-198,port-gentil,ga
-199,goderich,sl
-200,bilma,ne
-201,ambagarh chauki,in
-202,lasa,cn
-203,ginda,er
-204,namtsy,ru
-205,lazaro cardenas,mx
-206,beyneu,kz
-207,trinidad,bo
-208,hovd,mn
-209,severnyy,ru
-210,aleksandrov gay,ru
-211,airai,pw
-212,marfino,ru
-213,temaraia,ki
-214,linden,gy
-215,skjervoy,no
-216,coihaique,cl
-217,binzhou,cn
-218,arlit,ne
-219,beberibe,br
-220,port blair,in
-221,seoul,kr
-222,phalombe,mw
-223,banjar,id
-224,nizwa,om
-225,finale ligure,it
-226,aberdeen,us
-227,jamui,in
-228,shingu,jp
-229,monrovia,lr
-230,santa rita,py
-231,kosonsoy,uz
-232,aitape,pg
-233,igarapava,br
-234,mago,ru
-235,buchanan,lr
-236,hoganas,se
-237,itarema,br
-238,north bend,us
-239,hobbs,us
-240,saint-philippe,re
-241,port washington,us
-242,turukhansk,ru
-243,attawapiskat,ca
-244,sonoita,mx
-245,ghanzi,bw
-246,coruripe,br
-247,jabiru,au
-248,hambantota,lk
-249,jalu,ly
-250,maxixe,mz
-251,tabiauea,ki
-252,bathsheba,bb
-253,caravelas,br
-254,srandakan,id
-255,klaksvik,fo
-256,kaiyuan,cn
-257,naryan-mar,ru
-258,bognor regis,gb
-259,nalut,ly
-260,port macquarie,au
-261,lolua,tv
-262,lebu,cl
-263,pedernales,do
-264,djambala,cg
-265,chhoti sadri,in
-266,xichang,cn
-267,kholtoson,ru
-268,mar del plata,ar
-269,padang,id
-270,bowen,au
-271,juneau,us
-272,oussouye,sn
-273,tomatlan,mx
-274,gurgan,az
-275,shar,kz
-276,rio grande,br
-277,kaitangata,nz
-278,isla mujeres,mx
-279,sungaipenuh,id
-280,riyadh,sa
-281,tsihombe,mg
-282,pondicherry,in
-283,ust-barguzin,ru
-284,manado,id
-285,mpanda,tz
-286,dibulla,co
-287,cairns,au
-288,katsuura,jp
-289,uruguaiana,br
-290,dingle,ie
-291,valky,ua
-292,emporia,us
-293,axim,gh
-294,tumut,au
-295,bara,sd
-296,sobolevo,ru
-297,kosai,jp
-298,xining,cn
-299,aksehir,tr
-300,kutulik,ru
-301,grand river south east,mu
-302,xiongzhou,cn
-303,marcona,pe
-304,natal,br
-305,ahipara,nz
-306,tubuala,pa
-307,rorvik,no
-308,xiangdong,cn
-309,verkhniye sergi,ru
-310,mubi,ng
-311,nerchinskiy zavod,ru
-312,nicoya,cr
-313,forest grove,us
-314,talnakh,ru
-315,egvekinot,ru
-316,bonthe,sl
-317,lopez mateos,mx
-318,kifri,iq
-319,auki,sb
-320,kampene,cd
-321,sindor,ru
-322,torbay,ca
-323,anadyr,ru
-324,conde,br
-325,gat,ly
-326,aasiaat,gl
-327,chuy,uy
-328,troitskiy,ru
-329,kuchera,in
-330,muli,mv
-331,cheuskiny,ru
-332,concepcion del oro,mx
-333,bud,no
-334,saint george,bm
-335,changji,cn
-336,wagar,sd
-337,visby,se
-338,morondava,mg
-339,potgietersrus,za
-340,ikalamavony,mg
-341,oksfjord,no
-342,eureka,us
-343,areosa,pt
-344,gimli,ca
-345,yefremov,ru
-346,basco,ph
-347,casper,us
-348,arman,ru
-349,belushya guba,ru
-350,erzin,ru
-351,pau dos ferros,br
-352,marabba,sd
-353,camacha,pt
-354,sao joao da barra,br
-355,narsaq,gl
-356,sola,vu
-357,satitoa,ws
-358,vieques,us
-359,norman wells,ca
-360,talara,pe
-361,manono,cd
-362,santa maria,cv
-363,krasnoselkup,ru
-364,ribeira grande,pt
-365,sterling,us
-366,warqla,dz
-367,kiama,au
-368,galiwinku,au
-369,wazzan,ma
-370,george,za
-371,lucea,jm
-372,bago,mm
-373,yenagoa,ng
-374,ola,ru
-375,linxia,cn
-376,severo-kurilsk,ru
-377,thibodaux,us
-378,richards bay,za
-379,sentyabrskiy,ru
-380,lagoa,pt
-381,shu,kz
-382,strezhevoy,ru
-383,kavieng,pg
-384,barranca,pe
-385,sur,om
-386,cholan,tw
-387,quixada,br
-388,fernandina beach,us
-389,havoysund,no
-390,xiaoweizhai,cn
-391,xunchang,cn
-392,karaul,ru
-393,vanavara,ru
-394,rudbar,ir
-395,muscat,om
-396,rocha,uy
-397,nishihara,jp
-398,darhan,mn
-399,tokur,ru
-400,conceicao do araguaia,br
-401,kulhudhuffushi,mv
-402,naze,jp
-403,lahij,ye
-404,ilulissat,gl
-405,forssa,fi
-406,nizhnevartovsk,ru
-407,temerloh,my
-408,mananara,mg
-409,kholmogory,ru
-410,portales,us
-411,vaitupu,wf
-412,fortuna,us
-413,blackwater,au
-414,tulun,ru
-415,newton,us
-416,bembibre,es
-417,mulege,mx
-418,tingi,tz
-419,welkom,za
-420,san miguel,bo
-421,baruun-urt,mn
-422,ofaqim,il
-423,pemangkat,id
-424,nizhneangarsk,ru
-425,derzhavinsk,kz
-426,elizabeth city,us
-427,olafsvik,is
-428,sorvag,fo
-429,ajdabiya,ly
-430,lorengau,pg
-431,garowe,so
-432,zhob,pk
-433,cowansville,ca
-434,acapulco,mx
-435,luang prabang,la
-436,gorontalo,id
-437,ust-ishim,ru
-438,thunder bay,ca
-439,sakakah,sa
-440,tagusao,ph
-441,karatuzskoye,ru
-442,riohacha,co
-443,touros,br
-444,umm lajj,sa
-445,bolshegrivskoye,ru
-446,hilton head island,us
-447,sibolga,id
-448,santiago del estero,ar
-449,barcelona,ve
-450,coahuayana,mx
-451,tibacuy,co
-452,chino valley,us
-453,pozo colorado,py
-454,guerrero negro,mx
-455,vostok,ru
-456,andenes,no
-457,yako,bf
-458,fare,pf
-459,cayenne,gf
-460,bregenz,at
-461,nhulunbuy,au
-462,tamale,gh
-463,kyren,ru
-464,zeya,ru
-465,paita,pe
-466,bonavista,ca
-467,yurty,ru
-468,bandar-e anzali,ir
-469,marsaxlokk,mt
-470,liwale,tz
-471,moron,ve
-472,namatanai,pg
-473,dolbeau,ca
-474,geghamasar,am
-475,puyo,ec
-476,voh,nc
-477,manta,ec
-478,el cobre,cu
-479,sangar,ru
-480,tabas,ir
-481,mount pleasant,us
-482,saint-pierre,pm
-483,bolungarvik,is
-484,sao filipe,cv
-485,fjerritslev,dk
-486,nantucket,us
-487,kipini,ke
-488,havelock,us
-489,hobyo,so
-490,honningsvag,no
-491,itoman,jp
-492,tammisaari,fi
-493,darnah,ly
-494,ijaki,ki
-495,acarau,br
-496,nguiu,au
-497,tecoanapa,mx
-498,hamada,jp
-499,progreso,mx
-500,altay,cn
-501,nanakuli,us
-502,guadalupe y calvo,mx
-503,boden,se
-504,kralendijk,an
-505,kresttsy,ru
-506,burnie,au
-507,honiara,sb
-508,puerto madryn,ar
-509,san policarpo,ph
-510,margate,za
-511,juifang,tw
-512,tiksi,ru
-513,doha,qa
-514,mason,us
-515,marsa matruh,eg
-516,bone,id
-517,cienfuegos,cu
-518,vestmannaeyjar,is
-519,konibodom,tj
-520,vao,nc
-521,usinsk,ru
-522,deputatskiy,ru
-523,lompoc,us
-524,boa vista,br
-525,morant bay,jm
-526,ovalle,cl
-527,pignon,ht
-528,forestville,ca
-529,zhigansk,ru
-530,hami,cn
-531,guicheng,cn
-532,samalaeulu,ws
-533,kugesi,ru
-534,urdzhar,kz
-535,bereda,so
-536,huron,us
-537,huarmey,pe
-538,kruisfontein,za
-539,vila velha,br
-540,roald,no
-541,celestun,mx
-542,jipijapa,ec
-543,lipari,it
-544,eyl,so
-545,omagh,gb
-546,stei,ro
-547,wahran,dz
-548,broome,au
-549,carndonagh,ie
-550,gravdal,no
-551,aksu,cn
-552,diapaga,bf
-553,cordoba,ar
-554,sorland,no
-555,nova friburgo,br
-556,bubaque,gw
-557,bandarbeyla,so
-558,ewo,cg
-559,eugene,us
-560,kavaratti,in
-561,hofn,is
-562,inhambane,mz
-563,nushki,pk
-564,houffalize,be
-565,melfi,td
-566,pestravka,ru
-567,churachandpur,in
-568,saint-francois,gp
-569,namibe,ao
-570,gisborne,nz
-571,necochea,ar
-572,barraute,ca
-573,luoyang,cn
-574,christchurch,nz
-575,mardin,tr
-576,soyo,ao
-577,grand gaube,mu
-578,trat,th
-579,general roca,ar
-580,kyra,ru
-581,ginir,et
-582,baker,us
-583,marystown,ca
-584,bangsund,no
-585,saravan,la
-586,berea,us
-587,platanos,gr
-588,half moon bay,us
-589,ahuimanu,us
-590,turkistan,kz
-591,nome,us
-592,karwar,in
-593,tabou,ci
-594,drovyanaya,ru
-595,la seyne-sur-mer,fr
-596,thinadhoo,mv
-597,rize,tr
-598,dorado,us
-599,yar-sale,ru
-600,evensk,ru
-601,palmer,us
-602,kyshtovka,ru
-603,byron bay,au
+42,taolanaro,mg
+43,buenos aires,cr
+44,new norfolk,au
+45,ust-kuyga,ru
+46,barentsburg,sj
+47,messina,za
+48,half moon bay,us
+49,ribeira grande,pt
+50,tuburan,ph
+51,bluff,nz
+52,tabiauea,ki
+53,sao joao da barra,br
+54,naica,mx
+55,sorvag,fo
+56,jamestown,sh
+57,kaitong,cn
+58,cabo san lucas,mx
+59,pueblo,us
+60,pacific grove,us
+61,ipixuna,br
+62,san pedro de macoris,do
+63,nikolskoye,ru
+64,kusye-aleksandrovskiy,ru
+65,mareeba,au
+66,celestun,mx
+67,dikson,ru
+68,yerofey pavlovich,ru
+69,ponta delgada,pt
+70,nemuro,jp
+71,sao francisco,br
+72,llandrindod wells,gb
+73,grand river south east,mu
+74,mataura,pf
+75,galgani,sd
+76,two rivers,us
+77,kodiak,us
+78,algiers,dz
+79,evensk,ru
+80,phalaborwa,za
+81,roma,au
+82,tuktoyaktuk,ca
+83,oussouye,sn
+84,qaanaaq,gl
+85,saint-germain-de-grantham,ca
+86,ponta do sol,pt
+87,teya,ru
+88,roald,no
+89,teahupoo,pf
+90,petropavlovsk-kamchatskiy,ru
+91,carnarvon,au
+92,klaksvik,fo
+93,najran,sa
+94,pevek,ru
+95,mongoumba,cf
+96,onega,ru
+97,rungata,ki
+98,puerto escondido,mx
+99,amderma,ru
+100,tsihombe,mg
+101,ilulissat,gl
+102,isangel,vu
+103,hobart,au
+104,mys shmidta,ru
+105,iskateley,ru
+106,nome,us
+107,talavera de la reina,es
+108,borama,so
+109,rorvik,no
+110,verkhoyansk,ru
+111,brownwood,us
+112,rurrenabaque,bo
+113,iqaluit,ca
+114,challans,fr
+115,yueyang,cn
+116,arraial do cabo,br
+117,vaitupu,wf
+118,komsomolskiy,ru
+119,nara,ml
+120,saleaula,ws
+121,barrow,us
+122,busselton,au
+123,gwanda,zw
+124,mehamn,no
+125,college,us
+126,tall kayf,iq
+127,sorong,id
+128,diamantino,br
+129,antofagasta,cl
+130,sao filipe,cv
+131,los llanos de aridane,es
+132,labrea,br
+133,haines junction,ca
+134,havelock,us
+135,provideniya,ru
+136,tiksi,ru
+137,kavieng,pg
+138,ubeda,es
+139,raudeberg,no
+140,riyadh,sa
+141,kolda,sn
+142,vaini,to
+143,terney,ru
+144,barra patuca,hn
+145,lavrentiya,ru
+146,warqla,dz
+147,angoche,mz
+148,vila franca do campo,pt
+149,berdigestyakh,ru
+150,nelson bay,au
+151,zhigansk,ru
+152,vestmanna,fo
+153,albany,au
+154,sanandaj,ir
+155,tilichiki,ru
+156,castro,cl
+157,georgetown,sh
+158,tandil,ar
+159,kungurtug,ru
+160,clyde river,ca
+161,tateyama,jp
+162,guamuchil,mx
+163,isabela,us
+164,khatanga,ru
+165,cidreira,br
+166,tuggurt,dz
+167,port hedland,au
+168,avarua,ck
+169,fortuna,us
+170,zatoka,ua
+171,esperance,au
+172,marystown,ca
+173,chipinge,zw
+174,yirol,sd
+175,nanortalik,gl
+176,salalah,om
+177,hithadhoo,mv
+178,hilo,us
+179,broager,dk
+180,general roca,ar
+181,jumla,np
+182,belushya guba,ru
+183,east london,za
+184,aripuana,br
+185,attawapiskat,ca
+186,hovd,mn
+187,olafsvik,is
+188,sinnamary,gf
+189,waingapu,id
+190,illoqqortoormiut,gl
+191,bathsheba,bb
+192,chokurdakh,ru
+193,thompson,ca
+194,codrington,ag
+195,veraval,in
+196,shirokiy,ru
+197,norman wells,ca
+198,pringsewu,id
+199,brae,gb
+200,tacarigua,ve
+201,ibirataia,br
+202,yantai,cn
+203,lompoc,us
+204,joshimath,in
+205,burhaniye,tr
+206,maniitsoq,gl
+207,mozarlandia,br
+208,talnakh,ru
+209,zalantun,cn
+210,tuy hoa,vn
+211,waipawa,nz
+212,rawson,ar
+213,cefalu,it
+214,abilene,us
+215,acari,pe
+216,bilibino,ru
+217,port elizabeth,za
+218,beringovskiy,ru
+219,bowen,au
+220,celldomolk,hu
+221,novikovo,ru
+222,bredasdorp,za
+223,korla,cn
+224,sisimiut,gl
+225,muros,es
+226,luderitz,na
+227,chuy,uy
+228,labuhan,id
+229,tefe,br
+230,margate,za
+231,thai binh,vn
+232,port lincoln,au
+233,severo-kurilsk,ru
+234,sainte-marie,mq
+235,whitianga,nz
+236,saldanha,za
+237,luanda,ao
+238,yellowknife,ca
+239,kavaratti,in
+240,ardu,ee
+241,constitucion,mx
+242,cayenne,gf
+243,sumbawa,id
+244,chihuahua,mx
+245,labuan,my
+246,lhokseumawe,id
+247,karera,in
+248,santiago,ph
+249,bagdarin,ru
+250,ust-ilimsk,ru
+251,faanui,pf
+252,lorengau,pg
+253,cape town,za
+254,butaritari,ki
+255,vostok,ru
+256,kokoda,pg
+257,manado,id
+258,bad aussee,at
+259,robertsport,lr
+260,kruisfontein,za
+261,victoria,sc
+262,kjollefjord,no
+263,uarini,br
+264,alappuzha,in
+265,faya,td
+266,cururupu,br
+267,boca do acre,br
+268,yulara,au
+269,peniche,pt
+270,barranca,pe
+271,cesme,tr
+272,vao,nc
+273,alofi,nu
+274,prieska,za
+275,bubaque,gw
+276,gizo,sb
+277,bengkulu,id
+278,aksarka,ru
+279,obo,cf
+280,hamilton,bm
+281,shenjiamen,cn
+282,loncoche,cl
+283,batemans bay,au
+284,parkes,au
+285,tuim,ru
+286,dunedin,nz
+287,kachug,ru
+288,mahebourg,mu
+289,outlook,ca
+290,moose factory,ca
+291,ronneby,se
+292,werda,bw
+293,sitka,us
+294,christchurch,nz
+295,karauzyak,uz
+296,bambous virieux,mu
+297,quelimane,mz
+298,nouadhibou,mr
+299,ndele,cf
+300,santa eulalia del rio,es
+301,pangnirtung,ca
+302,esmeraldas,ec
+303,chagda,ru
+304,praia,cv
+305,saint anthony,ca
+306,dudinka,ru
+307,broome,au
+308,clifton springs,au
+309,santa cruz,cr
+310,itarema,br
+311,kabankalan,ph
+312,matagami,ca
+313,lagoa,pt
+314,rio gallegos,ar
+315,kieta,pg
+316,kang,bw
+317,oranjemund,na
+318,leeton,au
+319,mount isa,au
+320,palabuhanratu,id
+321,saint george,bm
+322,sinkat,sd
+323,prince george,ca
+324,leningradskiy,ru
+325,kouroussa,gn
+326,anadyr,ru
+327,sohag,eg
+328,flinders,au
+329,puro,ph
+330,tynda,ru
+331,souillac,mu
+332,bandarbeyla,so
+333,ca mau,vn
+334,ridgecrest,us
+335,sao gabriel da cachoeira,br
+336,filingue,ne
+337,lebu,cl
+338,vardo,no
+339,mbandaka,cd
+340,ati,td
+341,sobolevo,ru
+342,tura,ru
+343,adrar,dz
+344,nawa,sy
+345,stornoway,gb
+346,miraflores,co
+347,ambodifototra,mg
+348,irtyshskiy,ru
+349,vila do maio,cv
+350,elizabeth city,us
+351,plettenberg bay,za
+352,goba,et
+353,ust-nera,ru
+354,chapais,ca
+355,baker city,us
+356,richards bay,za
+357,lianzhou,cn
+358,kutum,sd
+359,teguise,es
+360,pavilosta,lv
+361,el prat de llobregat,es
+362,gigmoto,ph
+363,potgietersrus,za
+364,copala,mx
+365,iquique,cl
+366,avera,pf
+367,lappeenranta,fi
+368,fairbanks,us
+369,san quintin,mx
+370,emba,kz
+371,inverell,au
+372,bela,pk
+373,aguai,br
+374,pangai,to
+375,hofn,is
+376,derzhavinsk,kz
+377,vila velha,br
+378,zahnitkiv,ua
+379,pinheiral,br
+380,dingzhou,cn
+381,meulaboh,id
+382,palmer,us
+383,xique-xique,br
+384,mushie,cd
+385,kedrovyy,ru
+386,jaciara,br
+387,anastacio,br
+388,worland,us
+389,sibolga,id
+390,grand centre,ca
+391,terrace,ca
+392,kautokeino,no
+393,imbituba,br
+394,chumikan,ru
+395,antalaha,mg
+396,sirjan,ir
+397,leshukonskoye,ru
+398,safaga,eg
+399,samusu,ws
+400,puerto leguizamo,co
+401,flin flon,ca
+402,rawannawi,ki
+403,nuuk,gl
+404,pochutla,mx
+405,umm bab,qa
+406,coquimbo,cl
+407,sarankhola,bd
+408,sulangan,ph
+409,matara,lk
+410,abong mbang,cm
+411,yagodnoye,ru
+412,gisborne,nz
+413,omboue,ga
+414,tekeli,kz
+415,tasiilaq,gl
+416,straumen,no
+417,salantai,lt
+418,kununurra,au
+419,coulihaut,dm
+420,chicama,pe
+421,ituni,gy
+422,vallenar,cl
+423,hay river,ca
+424,nacozari,mx
+425,brufut,gm
+426,atherton,au
+427,acapulco,mx
+428,yarmouth,ca
+429,longyearbyen,sj
+430,nizhnyaya pavlovka,ru
+431,dingle,ie
+432,ouro preto do oeste,br
+433,bajil,ye
+434,wanning,cn
+435,yarada,in
+436,azimur,ma
+437,kampot,kh
+438,burnie,au
+439,auki,sb
+440,jinchang,cn
+441,new ulm,us
+442,baghdad,iq
+443,cap-aux-meules,ca
+444,ambilobe,mg
+445,krasnoarmeysk,kz
+446,port blair,in
+447,nhulunbuy,au
+448,dzhebariki-khaya,ru
+449,katsuura,jp
+450,naze,jp
+451,fare,pf
+452,phalombe,mw
+453,ilhabela,br
+454,lafia,ng
+455,solnechnyy,ru
+456,zaysan,kz
+457,manta,ec
+458,ostrovnoy,ru
+459,gangavalli,in
+460,lasem,id
+461,puerto colombia,co
+462,jensen beach,us
+463,sentyabrskiy,ru
+464,sanica,ba
+465,rio grande,br
+466,whitehorse,ca
+467,kazalinsk,kz
+468,yar-sale,ru
+469,makokou,ga
+470,fort nelson,ca
+471,airai,pw
+472,lakes entrance,au
+473,verkhnetulomskiy,ru
+474,saint-joseph,re
+475,calama,cl
+476,lastoursville,ga
+477,troitsko-pechorsk,ru
+478,khipro,pk
+479,puri,in
+480,necochea,ar
+481,broken hill,au
+482,guekedou,gn
+483,farafenni,gm
+484,devils lake,us
+485,avanigadda,in
+486,northam,au
+487,touros,br
+488,tshane,bw
+489,pangkalanbuun,id
+490,energetik,ru
+491,wukari,ng
+492,yerbogachen,ru
+493,ugoofaaru,mv
+494,anito,ph
+495,saint-augustin,ca
+496,liverpool,ca
+497,kahului,us
+498,makakilo city,us
+499,victor harbor,au
+500,cockburn harbour,tc
+501,kualakapuas,id
+502,horki,by
+503,denpasar,id
+504,melbu,no
+505,dibaya,cd
+506,birin,dz
+507,alotau,pg
+508,ayan,ru
+509,middle island,kn
+510,lielvarde,lv
+511,aykhal,ru
+512,alvaraes,br
+513,kombissiri,bf
+514,wenshang,cn
+515,ambon,id
+516,bernal,pe
+517,bada,ru
+518,cockburn town,tc
+519,gold coast,au
+520,abha,sa
+521,porto novo,cv
+522,surt,ly
+523,aflu,dz
+524,along,in
+525,inuvik,ca
+526,bonfim,br
+527,walvis bay,na
+528,paramonga,pe
+529,sioux lookout,ca
+530,lixourion,gr
+531,taoudenni,ml
+532,mungwi,zm
+533,camocim,br
+534,qui nhon,vn
+535,lolua,tv
+536,catamarca,ar
+537,brownsville,us
+538,hare bay,ca
+539,saint-francois,gp
+540,kenai,us
+541,malindi,ke
+542,la libertad,sv
+543,ambovombe,mg
+544,sedelnikovo,ru
+545,tecolutilla,mx
+546,taitung,tw
+547,ballina,au
+548,swan hill,au
+549,voyvozh,ru
+550,verkhnyaya sinyachikha,ru
+551,byron bay,au
+552,vila,vu
+553,marsh harbour,bs
+554,port hardy,ca
+555,tessalit,ml
+556,pokrovsk,ru
+557,yuzhno-yeniseyskiy,ru
+558,farafangana,mg
+559,artyk,ru
+560,marquette,us
+561,comodoro rivadavia,ar
+562,iranshahr,ir
+563,loa janan,id
+564,takoradi,gh
+565,luziania,br
+566,severomorsk,ru
+567,ahipara,nz
+568,lata,sb
+569,lozovik,rs
+570,mayskiy,ru
+571,xining,cn
+572,coihueco,cl
+573,tiarei,pf
+574,yashkino,ru
+575,bargal,so
+576,mayumba,ga
+577,paucartambo,pe
+578,teguldet,ru
+579,puerto del rosario,es
+580,salinas,ec
+581,hualmay,pe
+582,dongsheng,cn
+583,alice springs,au
+584,maragogi,br
+585,simpang,id
+586,chlorakas,cy
+587,khelyulya,ru
+588,bankura,in
+589,fevralsk,ru
+590,mount gambier,au
+591,vanderhoof,ca
+592,kichmengskiy gorodok,ru
+593,hambantota,lk
+594,balkanabat,tm
+595,sarangani,ph
+596,ubala,co
+597,benguela,ao
+598,privokzalnyy,ru
+599,mabaruma,gy
+600,sept-iles,ca
+601,wanaka,nz
+602,nazarovo,ru
+603,kambove,cd
+604,luena,ao
+605,houston,ca
+606,kitimat,ca
+607,angoram,pg
+608,sterling,us
+609,dakar,sn
+610,napier,nz
+611,leh,in
+612,batagay-alyta,ru
+613,changde,cn
+614,louisbourg,ca
+615,dzhusaly,kz
+616,nizhneyansk,ru
+617,kango,ga
+618,grindavik,is
+619,staritsa,ru
+620,lufilufi,ws
+621,canitas,mx
+622,balingasay,ph
+623,parfino,ru
+624,utiroa,ki
+625,obukhiv,ua
+626,saurimo,ao
+627,warrnambool,au
+628,kirakira,sb
+629,awjilah,ly
+630,craig,us
